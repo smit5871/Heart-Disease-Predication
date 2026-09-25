@@ -74,17 +74,14 @@ cd your-repo-name
 pip install -r requirements.txt
 jupyter notebook
 
-## 📌 Future Improvements
+📌 Future Improvements
+	•	Hyperparameter tuning
+	•	Cross-validation
+	•	Streamlit/Flask web application deployment
+	•	Testing advanced models such as XGBoost
 
-- Hyperparameter tuning to improve model performance
-- Cross-validation for better model evaluation
-- Feature engineering and selection
-- Implement advanced machine learning algorithms such as XGBoost
-- Develop an interactive Streamlit web application
-- Deploy the model for real-time heart disease prediction
+👨‍💻 Author
 
-## 👨‍💻 Author
-
-**Smit Patel**
+Smit Patel
 
 Aspiring AI & Data Science Professional
