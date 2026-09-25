@@ -68,22 +68,26 @@ Multiple machine learning models were trained and evaluated using classification
 
 ## 🚀 How to Run
 
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
 jupyter notebook
-
+```
 Open Heart Disease Classification.ipynb and run all the cells.
 
- 📌 Future Improvements
-	•	Hyperparameter tuning
-	•	Cross-validation
-	•	Streamlit/Flask web application deployment
-	•	Testing advanced models such as XGBoost
+## 📌 Future Improvements
+
+- Hyperparameter tuning to improve model performance
+- Cross-validation for better model evaluation
+- Feature engineering and selection
+- Implement advanced machine learning algorithms such as XGBoost
+- Develop an interactive Streamlit web application
+- Deploy the model for real-time heart disease prediction
 
 ## 👨‍💻 Author
 
-Smit Patel
-Aspiring AI & Data Science Professional
+**Smit Patel**
 
+Aspiring AI & Data Science Professional
 
