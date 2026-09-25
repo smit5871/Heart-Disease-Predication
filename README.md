@@ -68,13 +68,14 @@ Multiple machine learning models were trained and evaluated using classification
 
 ## 🚀 How to Run
 
-```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
 jupyter notebook
 
-## 📌 Future Improvements
+Open Heart Disease Classification.ipynb and run all the cells.
+
+ 📌 Future Improvements
 	•	Hyperparameter tuning
 	•	Cross-validation
 	•	Streamlit/Flask web application deployment
@@ -83,5 +84,6 @@ jupyter notebook
 ## 👨‍💻 Author
 
 Smit Patel
-
 Aspiring AI & Data Science Professional
+
+
